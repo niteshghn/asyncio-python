@@ -47,5 +47,4 @@ def main():
     # Simple for now
     get_data_synchronous()
 
-
 main()
